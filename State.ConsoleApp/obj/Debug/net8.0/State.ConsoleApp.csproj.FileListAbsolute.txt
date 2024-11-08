@@ -1,0 +1,14 @@
+D:\Projekti\StatePresentation\State.ConsoleApp\bin\Debug\net8.0\State.ConsoleApp.exe
+D:\Projekti\StatePresentation\State.ConsoleApp\bin\Debug\net8.0\State.ConsoleApp.deps.json
+D:\Projekti\StatePresentation\State.ConsoleApp\bin\Debug\net8.0\State.ConsoleApp.runtimeconfig.json
+D:\Projekti\StatePresentation\State.ConsoleApp\bin\Debug\net8.0\State.ConsoleApp.dll
+D:\Projekti\StatePresentation\State.ConsoleApp\bin\Debug\net8.0\State.ConsoleApp.pdb
+D:\Projekti\StatePresentation\State.ConsoleApp\obj\Debug\net8.0\State.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekti\StatePresentation\State.ConsoleApp\obj\Debug\net8.0\State.ConsoleApp.AssemblyInfoInputs.cache
+D:\Projekti\StatePresentation\State.ConsoleApp\obj\Debug\net8.0\State.ConsoleApp.AssemblyInfo.cs
+D:\Projekti\StatePresentation\State.ConsoleApp\obj\Debug\net8.0\State.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projekti\StatePresentation\State.ConsoleApp\obj\Debug\net8.0\State.ConsoleApp.dll
+D:\Projekti\StatePresentation\State.ConsoleApp\obj\Debug\net8.0\refint\State.ConsoleApp.dll
+D:\Projekti\StatePresentation\State.ConsoleApp\obj\Debug\net8.0\State.ConsoleApp.pdb
+D:\Projekti\StatePresentation\State.ConsoleApp\obj\Debug\net8.0\State.ConsoleApp.genruntimeconfig.cache
+D:\Projekti\StatePresentation\State.ConsoleApp\obj\Debug\net8.0\ref\State.ConsoleApp.dll

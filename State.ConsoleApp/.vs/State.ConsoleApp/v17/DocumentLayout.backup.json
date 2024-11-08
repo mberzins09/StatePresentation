@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekti\\StatePresentation\\State.ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00BE75A9-4D5E-4FE7-8E2D-3DDDB311FA55}|State.ConsoleApp.csproj|d:\\projekti\\statepresentation\\state.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BE75A9-4D5E-4FE7-8E2D-3DDDB311FA55}|State.ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BE75A9-4D5E-4FE7-8E2D-3DDDB311FA55}|State.ConsoleApp.csproj|d:\\projekti\\statepresentation\\state.consoleapp\\imusicplayerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BE75A9-4D5E-4FE7-8E2D-3DDDB311FA55}|State.ConsoleApp.csproj|solutionrelative:imusicplayerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BE75A9-4D5E-4FE7-8E2D-3DDDB311FA55}|State.ConsoleApp.csproj|d:\\projekti\\statepresentation\\state.consoleapp\\musiclist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BE75A9-4D5E-4FE7-8E2D-3DDDB311FA55}|State.ConsoleApp.csproj|solutionrelative:musiclist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BE75A9-4D5E-4FE7-8E2D-3DDDB311FA55}|State.ConsoleApp.csproj|d:\\projekti\\statepresentation\\state.consoleapp\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BE75A9-4D5E-4FE7-8E2D-3DDDB311FA55}|State.ConsoleApp.csproj|solutionrelative:musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BE75A9-4D5E-4FE7-8E2D-3DDDB311FA55}|State.ConsoleApp.csproj|d:\\projekti\\statepresentation\\state.consoleapp\\playstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BE75A9-4D5E-4FE7-8E2D-3DDDB311FA55}|State.ConsoleApp.csproj|solutionrelative:playstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicList.cs",
+              "DocumentMoniker": "D:\\Projekti\\StatePresentation\\State.ConsoleApp\\MusicList.cs",
+              "RelativeDocumentMoniker": "MusicList.cs",
+              "ToolTip": "D:\\Projekti\\StatePresentation\\State.ConsoleApp\\MusicList.cs",
+              "RelativeToolTip": "MusicList.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:33:03.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "D:\\Projekti\\StatePresentation\\State.ConsoleApp\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "MusicPlayer.cs",
+              "ToolTip": "D:\\Projekti\\StatePresentation\\State.ConsoleApp\\MusicPlayer.cs",
+              "RelativeToolTip": "MusicPlayer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wBsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:24:56.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayState.cs",
+              "DocumentMoniker": "D:\\Projekti\\StatePresentation\\State.ConsoleApp\\PlayState.cs",
+              "RelativeDocumentMoniker": "PlayState.cs",
+              "ToolTip": "D:\\Projekti\\StatePresentation\\State.ConsoleApp\\PlayState.cs",
+              "RelativeToolTip": "PlayState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:24:09.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMusicPlayerState.cs",
+              "DocumentMoniker": "D:\\Projekti\\StatePresentation\\State.ConsoleApp\\IMusicPlayerState.cs",
+              "RelativeDocumentMoniker": "IMusicPlayerState.cs",
+              "ToolTip": "D:\\Projekti\\StatePresentation\\State.ConsoleApp\\IMusicPlayerState.cs",
+              "RelativeToolTip": "IMusicPlayerState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:23:28.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projekti\\StatePresentation\\State.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projekti\\StatePresentation\\State.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:22:42.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
